@@ -1,0 +1,3 @@
+20303257-9;yulian;villegas;zavala;piter;202cb962ac59075b964b07152d234b70;1;Usuario;T03
+10623608-9;eduardo;jaque;kadis;hackerman;202cb962ac59075b964b07152d234b70;0;Bodeguero;T02
+20486410-1;vicente;morales;araya;vixo;202cb962ac59075b964b07152d234b70;1;Administrador;T01

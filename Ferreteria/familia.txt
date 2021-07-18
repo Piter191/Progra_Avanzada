@@ -1,0 +1,4 @@
+CERAMICO;0
+MADERA;0
+MADERA;0
+intel;0

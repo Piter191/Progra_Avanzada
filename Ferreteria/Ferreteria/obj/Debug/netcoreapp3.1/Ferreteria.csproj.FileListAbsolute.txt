@@ -1,0 +1,13 @@
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\bin\Debug\netcoreapp3.1\Ferreteria.exe
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\bin\Debug\netcoreapp3.1\Ferreteria.deps.json
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\bin\Debug\netcoreapp3.1\Ferreteria.runtimeconfig.json
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\bin\Debug\netcoreapp3.1\Ferreteria.runtimeconfig.dev.json
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\bin\Debug\netcoreapp3.1\Ferreteria.dll
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\bin\Debug\netcoreapp3.1\Ferreteria.pdb
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.csprojAssemblyReference.cache
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.AssemblyInfoInputs.cache
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.AssemblyInfo.cs
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.dll
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.pdb
+C:\Users\balle\source\repos\Ferreteria\Ferreteria\obj\Debug\netcoreapp3.1\Ferreteria.genruntimeconfig.cache
